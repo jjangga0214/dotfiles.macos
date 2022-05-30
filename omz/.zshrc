@@ -26,7 +26,6 @@ nvm
 npm
 node
 man
-kubens
 kubectx
 kubectl
 kube-ps1
