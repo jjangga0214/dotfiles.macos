@@ -35,6 +35,18 @@ gem install colorls
 rm -rf Brewfile && brew bundle dump
 ```
 
+## Settings
+
+### System
+
+![사용자 및 그룹/로그인 항목](./assets/users-and-group-login-items.png)
+
+### Karabiner
+
+![karabiner](./assets/karabiner-simple-modifications.png)
+
+After setting Karabiner, You also should configure input change key - the "Select next source in input menu" key - to `f18`.
+
 ## License
 
 MIT License. Copyright © 2022, GIL B. Chan <github.com/jjangga0214> <bnbcmindnpass@gmail.com>
